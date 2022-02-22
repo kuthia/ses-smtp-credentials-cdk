@@ -2,7 +2,11 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-#### [1.0.18](https://github.com/kuthia/ses-smtp-credentials-cdk/compare/1.0.17...1.0.18)
+#### [v1.0.19](https://github.com/kuthia/ses-smtp-credentials-cdk/compare/v1.0.18...v1.0.19)
+
+#### [v1.0.18](https://github.com/kuthia/ses-smtp-credentials-cdk/compare/1.0.17...v1.0.18)
+
+> 22 February 2022
 
 - deps: jest [`0f15bf9`](https://github.com/kuthia/ses-smtp-credentials-cdk/commit/0f15bf924eab2b8f9bd6eacb5070ac3df70d1469)
 - aws cdk version update [`7d061ec`](https://github.com/kuthia/ses-smtp-credentials-cdk/commit/7d061ece42aff60e474134b23aa9dd1b8adbaa5d)
