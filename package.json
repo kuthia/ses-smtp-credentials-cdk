@@ -1,6 +1,6 @@
 {
   "name": "ses-smtp-credentials-cdk",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "Create SMTP Credentials for use with SES",
   "main": "lib/index.js",
   "scripts": {
@@ -32,7 +32,9 @@
     "constructs": "^10.0.0"
   },
   "publishConfig": {
-    "registry": "https://pkg.devops.wncoms.com",
-    "directory": "lib"
-  }
+    "registry": "https://pkg.devops.wncoms.com"
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }

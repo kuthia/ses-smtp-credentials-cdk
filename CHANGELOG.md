@@ -2,7 +2,11 @@
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
+#### [v1.0.20](https://github.com/kuthia/ses-smtp-credentials-cdk/compare/v1.0.19...v1.0.20)
+
 #### [v1.0.19](https://github.com/kuthia/ses-smtp-credentials-cdk/compare/v1.0.18...v1.0.19)
+
+> 22 February 2022
 
 #### [v1.0.18](https://github.com/kuthia/ses-smtp-credentials-cdk/compare/1.0.17...v1.0.18)
 
